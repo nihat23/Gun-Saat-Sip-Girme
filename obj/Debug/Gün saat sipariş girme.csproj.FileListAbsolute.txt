@@ -1,0 +1,8 @@
+D:\VB\Gün saat sipariş girme\bin\Debug\Gün saat sipariş girme.exe.config
+D:\VB\Gün saat sipariş girme\bin\Debug\Gün saat sipariş girme.exe
+D:\VB\Gün saat sipariş girme\bin\Debug\Gün saat sipariş girme.pdb
+D:\VB\Gün saat sipariş girme\obj\Debug\Gün_saat_sipariş_girme.Form1.resources
+D:\VB\Gün saat sipariş girme\obj\Debug\Gün_saat_sipariş_girme.Properties.Resources.resources
+D:\VB\Gün saat sipariş girme\obj\Debug\Gün saat sipariş girme.csproj.GenerateResource.cache
+D:\VB\Gün saat sipariş girme\obj\Debug\Gün saat sipariş girme.exe
+D:\VB\Gün saat sipariş girme\obj\Debug\Gün saat sipariş girme.pdb
